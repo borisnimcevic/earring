@@ -1,0 +1,8 @@
+# KiCad lock files
+*.lck
+
+# KiCad auto-backup snapshots (redundant with git history)
+earring-backups/
+
+# macOS
+.DS_Store
